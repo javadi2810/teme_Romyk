@@ -1,7 +1,7 @@
 # 🎨 Persian-Translated Romyk Theme
-![Image Description](./tem/images/Screenshot (26).png)
-![Image Description](./tem/images/Screenshot (27).png)
-![Image Description](./tem/images/Screenshot (28).png)
+![Image Description](https://github.com/mohammadkhaliljavdi/teme_Romyk/blob/main/public/tem/images/Screenshot%20(26).png)
+![Image Description](https://github.com/mohammadkhaliljavdi/teme_Romyk/blob/main/public/tem/images/Screenshot%20(27).png)
+![Image Description](https://github.com/mohammadkhaliljavdi/teme_Romyk/blob/main/public/tem/images/Screenshot%20(28).png)
 
 This project provides a **Persian-translated** version of the **Romyk Theme**, redesigned with a **component-based structure** and **page routing handled by Browser Router**. It's tailored for Persian-language websites with a modern design.
 
