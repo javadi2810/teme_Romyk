@@ -1,19 +1,19 @@
-# 🎨 Persian-Translated Romyk Theme
-![Image Description](https://github.com/mohammadkhaliljavdi/teme_Romyk/blob/main/public/tem/images/Screenshot%20(26).png)
-![Image Description](https://github.com/mohammadkhaliljavdi/teme_Romyk/blob/main/public/tem/images/Screenshot%20(27).png)
-![Image Description](https://github.com/mohammadkhaliljavdi/teme_Romyk/blob/main/public/tem/images/Screenshot%20(28).png)
+# 🎨 تم فارسی‌سازی شده Romyk  
+![توضیح تصویر](https://github.com/mohammadkhaliljavdi/teme_Romyk/blob/main/public/tem/images/Screenshot%20(26).png)  
+![توضیح تصویر](https://github.com/mohammadkhaliljavdi/teme_Romyk/blob/main/public/tem/images/Screenshot%20(27).png)  
+![توضیح تصویر](https://github.com/mohammadkhaliljavdi/teme_Romyk/blob/main/public/tem/images/Screenshot%20(28).png)  
 
-This project provides a **Persian-translated** version of the **Romyk Theme**, redesigned with a **component-based structure** and **page routing handled by Browser Router**. It's tailored for Persian-language websites with a modern design.
+این پروژه نسخه‌ی **فارسی‌سازی شده** از **تم Romyk** است که با **ساختار مبتنی بر کامپوننت** طراحی شده و **مسیریابی صفحات توسط Browser Router مدیریت می‌شود**. این تم مناسب وب‌سایت‌های فارسی‌زبان با **طراحی مدرن و حرفه‌ای** است.
 
-## 🚀 Features
-- **Component-based** structure for easier development  
-- **Fully translated into Persian**  
-- **Page routing** implemented using Browser Router  
-- **Clean and well-organized code**  
-- **Available on GitHub for public use**  
+## 🚀 ویژگی‌ها  
+✔️ **ساختار مبتنی بر کامپوننت‌ها** برای توسعه‌ی آسان  
+✔️ **ترجمه‌ی کامل به زبان فارسی**  
+✔️ **مسیریابی صفحات** توسط Browser Router  
+✔️ **کدنویسی تمیز و سازمان‌یافته**  
+✔️ **در دسترس بودن در گیت‌هاب برای استفاده عمومی**  
 
-## 🔧 Installation & Usage
-To use this project, clone the repository and install dependencies:
+## 🔧 نصب و اجرا  
+برای استفاده از این پروژه، ابتدا ریپازیتوری را کلون کرده و وابستگی‌ها را نصب کنید:  
 
 ```bash
 git clone https://github.com/username/repo-name.git
