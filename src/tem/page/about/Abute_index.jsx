@@ -1,6 +1,7 @@
-import Aboute_0 from "../index/Aboute_section/Aboute_0";
-import Copyright_section from "../index/copyright_section/copyright_section";
-import Tem_navbar from "../index/heder_section/navbar";
+import Aboute_0 from "../../components/Aboute_section/Aboute_0";
+import Copyright_section from "../../components/copyright_section/copyright_section";
+import Tem_navbar from "../../components/heder_section/navbar";
+
 
 export default function Abute_index() {
     return (

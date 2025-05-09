@@ -5,8 +5,6 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import App from './App';
 import { BrowserRouter } from 'react-router-dom';
-import Copyright_section from './tem/index/copyright_section/copyright_section';
-
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

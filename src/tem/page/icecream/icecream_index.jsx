@@ -1,6 +1,6 @@
-import Copyright_section from "../index/copyright_section/copyright_section";
-import Cream from "../index/Cream_section/Cream";
-import Tem_navbar from "../index/heder_section/navbar";
+import Copyright_section from "../../components/copyright_section/copyright_section";
+import Cream from "../../components/Cream_section/Cream";
+import Tem_navbar from "../../components/heder_section/navbar";
 
 export default function Icecream_index() {
     return<>

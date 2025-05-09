@@ -1,7 +1,6 @@
-import Aboute from "../index/Aboute_section/Aboute";
-import Copyright_section from "../index/copyright_section/copyright_section";
-import Tem_navbar from "../index/heder_section/navbar";
-import Services from "../index/services_section/services";
+import Copyright_section from "../../components/copyright_section/copyright_section";
+import Tem_navbar from "../../components/heder_section/navbar";
+import Services from "../../components/services_section/services";
 
 export default function Services_index() {
     return (
